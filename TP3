@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CV - Yassin Elmouden</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <header>
+        <h1>Yassin Elmouden</h1>
+        <p>Étudiant en S2 Intelligence Artificielle (IA) - FPO</p>
+    </header>
+
+    <main>
+        <section id="personal-info">
+            <h2>Informations personnelles</h2>
+            <ul>
+                <li><strong>Âge:</strong> 22 ans</li>
+                <li><strong>Ville:</strong> Ouarzazate, Maroc</li>
+                <li><strong>Email:</strong> yassin.elmouden@email.com</li>
+                <li><strong>Établissement:</strong> Faculté Poly-disciplinaire d'Ouarzazate (FPO)</li>
+            </ul>
+        </section>
+
+        <section id="formation">
+            <h2>Formation</h2>
+            <div class="item">
+                <h3>Baccalauréat</h3>
+                <p>Obtenu en 2025</p>
+            </div>
+            <div class="item">
+                <h3>Diplôme Universitaire (En cours)</h3>
+                <p>Semestre 2 - Intelligence Artificielle (IA) à la FPO</p>
+            </div>
+        </section>
+
+        <section id="competences">
+            <h2>Compétences</h2>
+            <ul>
+                <li><strong>Talent Artistique:</strong> Drawing (Dessin)</li>
+                <li><strong>Informatique:</strong> Développement Web (HTML5 / CSS3)</li>
+                <li><strong>Technologie:</strong> Initiation à l'Intelligence Artificielle</li>
+            </ul>
+        </section>
+
+        <section id="experiences">
+            <h2>Expériences</h2>
+            <div class="item">
+                <h3>Projets Académiques - FPO</h3>
+                <p>Conception et réalisation d'une structure de CV numérique lors des travaux pratiques.</p>
+            </div>
+            <div class="item">
+                <h3>Activités Créatives</h3>
+                <p>Pratique régulière du dessin et développement de la créativité visuelle.</p>
+            </div>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2026 Yassin Elmouden - Tous droits réservés</p>
+    </footer>
+
+</body>
+</html>
